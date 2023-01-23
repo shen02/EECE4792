@@ -43,6 +43,6 @@ body{
     color: #000;
 }
 
-.link:hover{
+.link a:hover{
     color:#676767;
 }
