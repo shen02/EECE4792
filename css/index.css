@@ -43,6 +43,10 @@ body{
     color: #000;
 }
 
-.link li a:hover{
+.link a{
+    display: block;
+}
+
+.link a:hover{
     color:#676767;
 }
