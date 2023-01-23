@@ -8,7 +8,7 @@ body{
     width: 100%;
     position: relative;
     font-family: helvetica, sans-serif;
-    background-color: #000;
+    background: #000;
 }
 
 ::selection{
@@ -45,5 +45,5 @@ body{
 
 
 .link:hover{
-    background-color:#676767;
+    background:#676767;
 }
