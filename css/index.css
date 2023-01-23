@@ -42,3 +42,8 @@ body{
     text-transform: capitalize;
     color: #000;
 }
+
+
+.link:hover{
+    color:#676767;
+}
