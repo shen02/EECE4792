@@ -32,7 +32,6 @@ body{
 .links-container{
     display: flex;
     list-style: none;
-    background-color: #000;
 }
 
 .link{
@@ -40,7 +39,7 @@ body{
     margin-left: 10px;
     text-decoration: none;
     text-transform: capitalize;
-    color: #fff;
+    color: #000;
 }
 
 
