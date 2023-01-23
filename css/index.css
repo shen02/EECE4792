@@ -44,6 +44,6 @@ body{
 }
 
 
-.link:hover{
-    color:#676767;
+.link a:hover{
+    background-color:#676767;
 }
