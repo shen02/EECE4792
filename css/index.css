@@ -8,7 +8,6 @@ body{
     width: 100%;
     position: relative;
     font-family: helvetica, sans-serif;
-    background-color: #000;
 }
 
 ::selection{
