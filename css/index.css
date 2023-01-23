@@ -39,6 +39,7 @@ body{
     padding: 10px;
     margin-left: 10px;
     text-transform: capitalize;
+    text-decoration: none;
     color: #000;
 }
 
