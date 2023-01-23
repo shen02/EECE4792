@@ -32,6 +32,7 @@ body{
 .links-container{
     display: flex;
     list-style: none;
+    background-color: #fff;
 }
 
 .link{
@@ -43,6 +44,6 @@ body{
 }
 
 
-.link a:hover{
+.link:hover{
     background-color:#676767;
 }
