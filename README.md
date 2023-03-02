@@ -12,19 +12,19 @@ To run this project, please follow these steps:
 
 1. Clone the repository: 
 
-    git clone https://github.com/yourusername/yourrepository.git
+        git clone https://github.com/yourusername/yourrepository.git
 
 2. Change the directory to yolov3:
 
-    cd yolov3
+        cd yolov3
 
 3. Install the required packages:
 
-    pip install -r requirements.txt
+        pip install -r requirements.txt
 
 4. Train the model using the following command:
   
-    python train.py --img 640 --batch 16 --epochs 5 --data painting.yaml --weights yolov3.pt
+        python train.py --img 640 --batch 16 --epochs 5 --data painting.yaml --weights yolov3.pt
 
 5. The trained model will be saved in the runs/train/exp folder. To test the model on a picture, run the following command:
     
