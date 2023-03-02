@@ -12,7 +12,7 @@ To run this project, please follow these steps:
 
 1. Clone the repository: 
 
-        git clone https://github.com/yourusername/yourrepository.git
+        git clone https://github.com/shen02/eece4792.git
 
 2. Change the directory to yolov3:
 
