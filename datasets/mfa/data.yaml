@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['fruits', 'lilies', 'ships', 'summer', 'sunrise']
+
+roboflow:
+  workspace: project
+  project: capstone-mfa-run-trial
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/project/capstone-mfa-run-trial/dataset/1

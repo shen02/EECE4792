@@ -1,7 +1,0 @@
-train: ../painting_dataset/train/images
-val: ../painting_dataset/valid/images
-test: ../painting_dataset/test/images
- 
-# Classes
-nc: 2  # number of classes
-names: ['mona-lisa', 'liberty-leading-the-people']  # class names
